@@ -2,7 +2,7 @@
 
 In this repository, the BigDecimal class is implemented using C++.
 
-In addition, we have performed 10000 random digit quadrature calculations.
+In addition, I have performed 10000 random digit quadrature calculations.
 
 As a background, the calculation results may be rounded in single-precision and double-precision calculations.
 
